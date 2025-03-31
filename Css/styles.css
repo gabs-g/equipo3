@@ -1,0 +1,117 @@
+html{
+    background-color: #212121;
+    font-family: "Oswald", sans-serif;
+    color: aliceblue; 
+
+}
+
+
+a  {
+    display: block;
+    color: rgb(233, 226, 239);
+    font-size: 15px;
+    background-color: #d95d9184; 
+    /*border: 1px dashed rgb(0, 0, 0);*/
+    text-align: right;
+    text-decoration: none;
+} 
+
+h1#texto-uno{
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 50px;
+  background-color: #C890A7;
+ 
+}   
+
+label{
+
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color:#a35c7a3e ;
+    
+    
+}
+input{
+    padding: 2px;
+
+  
+    
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+    
+}
+
+p{
+    font-family: "Caveat", cursive;
+   text-align: center;
+   font-size:20px;
+}
+
+#boletos{
+
+    display: block;
+    color: rgb(23, 6, 38);
+    font-size: 25px;
+    background-color: #FBF5E5;
+    text-align: center;
+}
+
+h5{
+    
+        font-family: "Playwrite MX Guides", cursive;
+        text-align: center;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 30px;
+      
+
+}
+
+h6{
+
+    font-family: "Caveat", cursive;
+   text-align: center;
+   font-size: 30px;
+   background-color: #C890A7;
+}
+
+li{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    
+}
+ 
+#color{
+background-color: rgba(160, 127, 195, 0.685);
+color: #212121;
+
+}
+
+form{
+
+    display: block;
+    text-align: center;
+    text-decoration: none;
+
+}
+button{
+    background-color: #bea8b1;
+    border-color: #C890A7;
+    border: #212121;
+    font-family: cursive;
+    font-size: 20px
+
+}
